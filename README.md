@@ -1,1 +1,2 @@
 # cougar
+This project is a result of many years using Excel VBA code to automate spreadsheets. It compliles a long list of functions that can be used to reduce the amount of time necessary to automate from scratch. By automation I mean any calculation or any set of repetitive tasks that you would like to avoid to execute manually. All the functions were organized into a single file, which is an Excel Add-in, that you can simply reference in your workbook in order to use them. 
